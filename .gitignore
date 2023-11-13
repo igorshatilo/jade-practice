@@ -1,0 +1,5 @@
+out
+*.txt
+*.class
+.idea
+*.jar
